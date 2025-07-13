@@ -22,6 +22,9 @@ This project helps analyze and determine the best vehicle options for a fleet se
 ### 📁 Output
 Tableau public link: https://public.tableau.com/views/VisualAssessment-Decisiontab/Decision?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Interactive Tableau dashboard showcasing vehicle recommendations tailored for fleet operations.
-<img width="1068" height="626" alt="Decision" src="https://github.com/user-attachments/assets/70f9099a-f8c3-441b-84ea-a2417759f4d3" />
 
-[TableauVisualization.pdf](https://github.com/user-attachments/files/21205424/TableauVisualization.pdf)
+<img width="687" height="412" alt="image" src="https://github.com/user-attachments/assets/52665c54-351e-48a1-ac12-7a11bd05a4ed" />
+<img width="687" height="865" alt="image" src="https://github.com/user-attachments/assets/d28871a4-40d6-45dc-9278-88c45444bcb0" />
+
+
+
