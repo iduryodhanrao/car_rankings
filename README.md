@@ -24,3 +24,4 @@ Tableau public link: https://public.tableau.com/views/VisualAssessment-Decisiont
 Interactive Tableau dashboard showcasing vehicle recommendations tailored for fleet operations.
 <img width="1068" height="626" alt="Decision" src="https://github.com/user-attachments/assets/70f9099a-f8c3-441b-84ea-a2417759f4d3" />
 
+[TableauVisualization.pdf](https://github.com/user-attachments/files/21205424/TableauVisualization.pdf)
